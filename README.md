@@ -13,3 +13,4 @@ If you use this extension, you should cite the original StarDist publication
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Granada, Spain, September 2018.
 
 You should also cite the QuPath publication, as described [here](https://qupath.readthedocs.io/en/stable/docs/intro/citing.html).
+
